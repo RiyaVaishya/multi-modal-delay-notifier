@@ -1,0 +1,21 @@
+ferry_id,departure_time,delay_minutes,origin,destination
+FR2001,10:30,0,Goa,Lucknow Dock
+FR2002,11:00,15,Kochi,Ludhiana Dock
+FR2003,11:45,0,Kochi,Lucknow Dock
+FR2004,12:30,20,Chennai,Ludhiana Dock
+FR2005,10:15,10,Goa,Lucknow Dock
+FR2006,11:50,0,Ahmedabad,Ludhiana Dock
+FR2007,13:00,5,Lucknow,Lucknow Dock
+FR2008,10:45,0,Bengaluru,Lucknow Dock
+FR2009,12:20,15,Kochi,Ludhiana Dock
+FR2010,11:10,25,Delhi,Lucknow Dock
+FR2011,12:00,0,Goa,Ludhiana Dock
+FR2012,10:00,10,Bengaluru,Lucknow Dock
+FR2013,11:30,0,Delhi,Lucknow Dock
+FR2014,12:45,5,Chennai,Lucknow Dock
+FR2015,13:10,0,Kochi,Ludhiana Dock
+FR2016,11:20,35,Chandigarh,Lucknow Dock
+FR2017,10:50,0,Hyderabad,Ludhiana Dock
+FR2018,09:45,10,Delhi,Lucknow Dock
+FR2019,10:05,0,Pune,Lucknow Dock
+FR2020,12:30,15,Goa,Lucknow Dock
