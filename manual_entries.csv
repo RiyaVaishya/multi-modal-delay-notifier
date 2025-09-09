@@ -1,0 +1,4 @@
+passenger_name,mode,origin,destination,departure_time,predicted_delay,risk_level
+Shravani Chandane,Ferry,Goa,Ludhiana Dock,13:54,2.04,🟢 Low Risk
+Shravani Chandane,Flight,Ahmedabad,Delhi,10:00,7.04,🟢 Low Risk
+RIYA,Flight,Ahmedabad,Chennai,10:00,6.99,🟢 Low Risk
